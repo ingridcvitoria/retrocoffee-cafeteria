@@ -26,3 +26,9 @@ body {
     margin-right: 200px;
     justify-content: center;
 }
+
+.ambiente {
+    margin-left: 220px;
+    padding: 40px;
+    width: 40%;
+}
