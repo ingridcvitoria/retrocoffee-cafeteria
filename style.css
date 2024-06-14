@@ -3,11 +3,21 @@ header {
     background-color: #e8d581;
 }
 
+
 .cabecalho {
+    color: #ffffff;
+    margin-left: 660px;
     text-align: center;
+    display: flex;
 }
 
-
+.cabecalho-lista-1 {
+    color: #000000;
+    margin-left: 260px;
+    padding: 40px;
+    display: inline-block;
+    justify-content: center;
+}
 
 body {
     color: #000000;
