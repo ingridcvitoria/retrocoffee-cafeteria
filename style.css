@@ -7,6 +7,10 @@ header {
     text-align: center;
 }
 
+.cabecalho-lista-1 {
+    background-color: #000000;
+}
+
 body {
     color: #000000;
     background-color: #e8d581;
