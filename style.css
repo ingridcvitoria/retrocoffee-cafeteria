@@ -19,6 +19,17 @@ header {
     justify-content: center;
 }
 
+.titulo-2 {
+    color: #000000;
+    justify-content: center;
+    display: flex;
+}
+
+.paragrafo-1 {
+    margin-left: 20px;
+    justify-content: center;
+}
+
 body {
     color: #000000;
     background-color: #e8d581;
@@ -41,5 +52,5 @@ footer {
 p {
     justify-content: center;
     padding: 12px;
-    
+
 }
