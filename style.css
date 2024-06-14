@@ -3,6 +3,10 @@ header {
     background-color: #e8d581;
 }
 
+.cabecalho {
+    text-align: center;
+}
+
 body {
     color: #000000;
     background-color: #e8d581;
