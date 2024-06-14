@@ -32,3 +32,13 @@ body {
     padding: 60px;
     width: 60%;
 }
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+p {
+    justify-content: center;
+    padding: 20px;
+}
