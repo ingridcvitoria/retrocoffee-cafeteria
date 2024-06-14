@@ -8,8 +8,11 @@ header {
 }
 
 .cabecalho-lista-1 {
-    background-color: #000000;
     color: #ffffff;
+    margin-left: 260px; 
+    padding: 40px;
+    display: inline-block;
+    justify-content: center;
 }
 
 body {
