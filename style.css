@@ -6,5 +6,7 @@ header {
 body {
     color: #000000;
     background-color: #e8d581;
-    font-family: 'cutive' ,'sans-serif';
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: center;
 }
