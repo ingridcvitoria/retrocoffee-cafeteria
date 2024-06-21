@@ -1,19 +1,18 @@
 header {
-    color: #ffffff;
-    background-color: #000000;
+    color: #000000;
+    background-color: #ffffff;
 }
 
 
 .cabecalho {
-    color: #ffffff;
+    color: #000000;
     margin-left: 360px;
     text-align: center;
     display: flex;
 }
 
 .cabecalho-lista-1 {
-    background-color: #000000;
-    color:#ffffff;
+    color:#000000;
     margin-left: 260px; 
     padding: 40px; 
     display: inline-block;
