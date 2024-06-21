@@ -39,14 +39,17 @@ body {
 }
 
 .retrocoffee {
-    margin-left: 20px;
+    margin-left: 50px;
     padding: 20px;
-    width: 30%;
+    width: 50%;
     display: inline;
 }
 
 .cafe {
-    
+    margin-left: 50px;
+    padding: 20px;
+    width: 30%;
+    display: inline;
 }
 
 footer {
