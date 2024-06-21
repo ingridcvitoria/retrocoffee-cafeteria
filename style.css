@@ -41,8 +41,9 @@ body {
 .retrocoffee {
     margin-left: 50px;
     padding: 20px;
-    width: 70%;
+    width: 66%;
     display: inline;
+    align-items: center;
 }
 
 .cafe {
