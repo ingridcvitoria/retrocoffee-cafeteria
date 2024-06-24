@@ -21,12 +21,13 @@ header {
 
 .titulo-2 {
     color: #000000;
+    margin-left: 290px;
     justify-content: center;
     display: flex;
 }
 
 .paragrafo-1 {
-    margin-left: 100px;
+    margin-left: 130px;
     justify-content: center;
 }
 
