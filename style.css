@@ -1,6 +1,7 @@
 header {
     color: #000000;
     background-color: #f5deb3;
+    margin-left: 200px;
 }
 
 
@@ -13,7 +14,7 @@ header {
 
 .cabecalho-lista-1 {
     color:#000000;
-    margin-left: 290px; 
+    margin-left: 260px; 
     padding: 40px; 
     display: inline-block;
     justify-content: center;
