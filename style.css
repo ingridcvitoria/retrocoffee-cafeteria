@@ -8,7 +8,7 @@ header {
 .cabecalho {
     color: #000000;
     background-color: #f5deb3;
-    margin-left: 330px;
+    margin-left: 390px;
     text-align: center;
     display: inline-block;
     font-size: 33px;
@@ -37,8 +37,8 @@ header {
 body {
     color: #e2be8b;
     background-color: #330000;
-    margin-left: 20px;
-    margin-right: 45px;
+    margin-left: 10px;
+    margin-right: 60px;
     justify-content: center;
     font-family: "Playfair Display" , 'serif';
     font-size: 17px;
