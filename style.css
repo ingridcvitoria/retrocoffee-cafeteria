@@ -9,7 +9,8 @@ header {
     color: #000000;
     margin-left: 360px;
     text-align: center;
-    display: flex;
+    display: inline-block;
+    font-size: 30px;
 }
 
 .cabecalho-lista-1 {
