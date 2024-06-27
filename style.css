@@ -15,8 +15,9 @@ header {
 .cabecalho-lista-1 {
     color:#000000;
     margin-left: 270px; 
-    padding: 40px; 
+    padding: 10px; 
     text-align: center;
+    display: inline;
 }
 
 .titulo-2 {
