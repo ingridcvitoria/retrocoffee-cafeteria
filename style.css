@@ -44,18 +44,18 @@ body {
     font-size: 17px;
 }
 
+.cafe {
+    margin-left: 10px;
+    padding: 10px;
+    width: 30%;
+    display: inline;
+}
+
 .retrocoffee {
     margin-left: 10px;
     padding: 20px;
     width: 40%;
     align-items: center;
-    display: inline;
-}
-
-.cafe {
-    margin-left: 10px;
-    padding: 10px;
-    width: 30%;
     display: inline;
 }
 
