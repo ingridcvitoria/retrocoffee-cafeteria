@@ -4,7 +4,6 @@ header {
     margin-left: 10px;
 }
 
-
 .cabecalho {
     color: #000000;
     background-color: #f5deb3;
@@ -46,20 +45,21 @@ body {
 
 .cafe {
     margin-left: 50px;
-    padding: 10px;
+    padding: 30px;
     width: 30%;
     display: inline;
 }
 
 .retrocoffee {
     margin-left: 10px;
-    padding: 10px;
+    padding: 30px;
     width: 27%;
     align-items: center;
     display: inline;
 }
 
 footer {
+    padding: 20px;
     background-color: #f5deb3;
     color: #000000;
     font-size: 13px;
