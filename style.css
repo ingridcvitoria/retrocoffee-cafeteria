@@ -21,7 +21,7 @@ header {
     font-size: 15px;
 }
 
-.titulo-2 {
+.titulo-1 {
     padding: 10px;
     color: #e2be8b;
     margin-left: 21px;
@@ -32,6 +32,14 @@ header {
 .paragrafo-1 {
     margin-left: 130px;
     justify-content: center;
+}
+
+.titulo-2 {
+    padding: 10px;
+    color: #e2be8b;
+    margin-left: 21px;
+    justify-content: center;
+    display: flex;
 }
 
 body {
