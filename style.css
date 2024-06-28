@@ -22,7 +22,7 @@ header {
 }
 
 .titulo-2 {
-    padding: 30px;
+    padding: 10px;
     color: #e2be8b;
     margin-left: 21px;
     justify-content: center;
@@ -30,7 +30,6 @@ header {
 }
 
 .paragrafo-1 {
-    padding: 10px;
     margin-left: 130px;
     justify-content: center;
 }
