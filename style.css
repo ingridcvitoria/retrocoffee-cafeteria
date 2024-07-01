@@ -42,6 +42,19 @@ header {
     display: flex;
 }
 
+.paragrafo-2 {
+    margin-left: 130px;
+    justify-content: center;
+}
+
+.titulo-3 {
+    padding: 10px;
+    color: #e2be8b;
+    margin-left: 21px;
+    justify-content: center;
+    display: flex;
+}
+
 body {
     color: #e2be8b;
     background-color: #330000;
